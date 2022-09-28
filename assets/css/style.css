@@ -188,7 +188,7 @@ body{
     color: var(--para-font-color);
     font-weight: var(--font-weight-600);
     font-size: 13px;
-    margin-left: 15px;
+    margin-left: 8px;
 }
 .post-title {
     line-height: 20px !important;
