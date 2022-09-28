@@ -270,7 +270,7 @@ body{
     left: 0;
     background-color: black;
     transition: .4s ease-in-out;
-    opacity: 2;
+    opacity: .2;
 }
 .blog-post-design2:hover::after{
     opacity: .2;
