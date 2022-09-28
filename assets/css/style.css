@@ -276,7 +276,7 @@ body{
     opacity: .2;
 }
 .blog-post-design1, .blog-post-design2{
-    overflow: hidden;
+    overflow: hidden !important;
 }
 .blog-post-design1 img, .blog-post-design2 img{
     transition: 1.5s ease-in-out;
@@ -466,7 +466,7 @@ font-weight: 600;
 .single-blog-featured-section .blog-post-content {
         z-index: 99;
  }
-.single-blog-featured-section .blog-post-design1, .blog-post-design2 {
+.single-blog-featured-section .blog-post-design1 {
     overflow: visible !important;
 }
 .single-blog-featured-section .blog-post-design1 .post-title {
