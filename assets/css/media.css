@@ -47,7 +47,10 @@ Media Query of product details Are Here!
     
 }
 /* // X-Small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) {  
+@media (max-width: 575.98px) { 
+   .container {
+        max-width: 100% !important;
+    }
     .blog-sidebar-layout-1 .blog-post-content {
        
         width: 100%;
