@@ -69,6 +69,11 @@ Media Query of product details Are Here!
         width: 100%;
         padding: 15px 5px 10px 0;
     }
+  .single-blog-featured-section .blog-post-design1 .post-title {
+    font-size: 30px;
+    line-height: 35px !important;
+
+}
   
 }
 
