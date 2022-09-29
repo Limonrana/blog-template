@@ -74,6 +74,10 @@ Media Query of product details Are Here!
     line-height: 35px !important;
 
 }
+  .single-post-social-btn ul li {
+
+    margin-bottom: 10px;
+}
   
 }
 
