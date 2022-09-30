@@ -266,13 +266,12 @@ body{
 .blog-post-content, .blog-post-overlay{
     overflow: hidden;
 } 
- .blog-post-content img{
+ .blog-post-overlay img{
     transition: 1.5s ease-in-out;
 }
-.blog-post-content:hover img{
+.blog-post-overlay:hover img{
     transform: scale(1.2);
 }
-
 /* css for section1 */
 .blog-post-design1{
     margin: 0px 0 !important;
